@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "question": "Au bout de combien d'années consécutives de non-paiement de cotisations perd-on la qualité de membre chez Togo AgTech Hub selon le règlement intérieur ?",
+    "expected_answer": "2 ans consécutives.",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 2,
+    "type": "single_hop"
+  },
+  {
+    "id": 2,
+    "question": "Combien de membres faut-il parrainer directement au minimum pour devenir membre Bronze chez FRESHYX ?",
+    "expected_answer": "10 nouveaux membres au minimum.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 7,
+    "type": "single_hop"
+  },
+  {
+    "id": 3,
+    "question": "Quelle est la durée du mandat du Bureau Exécutif de Togo AgTech Hub selon ses statuts ?",
+    "expected_answer": "3 ans, renouvelable.",
+    "source_doc": "statut_togoagtechhub.pdf",
+    "source_page": 6,
+    "type": "single_hop"
+  },
+  {
+    "id": 4,
+    "question": "Quel est le quorum exigé pour conduire une réunion du Conseil d'Administration d'ISOC-Togo ?",
+    "expected_answer": "4 membres.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 6,
+    "type": "single_hop"
+  },
+  {
+    "id": 5,
+    "question": "Combien de personnes composent le jury dirigeant une Assemblée Générale ordinaire chez FRESHYX ?",
+    "expected_answer": "3 personnes (deux alumni et un membre du Bureau du mandat en cours).",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 10,
+    "type": "single_hop"
+  },
+  {
+    "id": 6,
+    "question": "Quel est le délai d'envoi des convocations à l'Assemblée Générale dans le règlement intérieur de Togo AgTech Hub ?",
+    "expected_answer": "Quinze (15) jours à l'avance.",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 3,
+    "type": "single_hop"
+  },
+  {
+    "id": 7,
+    "question": "Où se situe le siège social de Togo AgTech Hub selon ses statuts ?",
+    "expected_answer": "Lomé - Togo, quartier Adidogomé.",
+    "source_doc": "statut_togoagtechhub.pdf",
+    "source_page": 2,
+    "type": "single_hop"
+  },
+  {
+    "id": 8,
+    "question": "Quel est le délai accordé au Bureau Exécutif de FRESHYX pour statuer sur une démission écrite ?",
+    "expected_answer": "Sept (7) jours.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la durée du mandat des commissaires aux comptes chez ISOC-Togo ?",
+    "expected_answer": "Deux (2) ans renouvelable une (1) seule fois.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la langue officielle de tous les échanges au sein du chapitre ISOC-Togo ?",
+    "expected_answer": "Le Français.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 3,
+    "type": "single_hop"
+  },
+  {
+    "id": 11,
+    "question": "Quelle majorité est requise pour prononcer l'exclusion d'un membre chez FRESHYX en Assemblée Générale ?",
+    "expected_answer": "La majorité des deux tiers (2/3) des membres présents.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 12,
+    "question": "Qui valide les projets et désigne leur responsable au Togo AgTech Hub selon le règlement intérieur ?",
+    "expected_answer": "Le Bureau Exécutif.",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 5,
+    "type": "single_hop"
+  },
+  {
+    "id": 13,
+    "question": "Quelle commission spécialisée de Togo AgTech Hub s'occupe de la gestion technique de la plateforme numérique ?",
+    "expected_answer": "Commission Data & Plateforme.",
+    "source_doc": "statut_togoagtechhub.pdf",
+    "source_page": 6,
+    "type": "single_hop"
+  },
+  {
+    "id": 14,
+    "question": "À quel rythme minimum le Conseil d'Administration d'ISOC-Togo tient-il une session ?",
+    "expected_answer": "Au moins tous les trois (3) mois.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 5,
+    "type": "single_hop"
+  },
+  {
+    "id": 15,
+    "question": "Combien de membres composent le Bureau Exécutif de FRESHYX ?",
+    "expected_answer": "Cinq (5) membres.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 11,
+    "type": "single_hop"
+  },
+  {
+    "id": 16,
+    "question": "Qui est d'office Membre d'Honneur au sein de l'association FRESHYX ?",
+    "expected_answer": "Tout ancien Président de l'association.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 7,
+    "type": "single_hop"
+  },
+  {
+    "id": 17,
+    "question": "Quelle proportion de membres actifs doit être présente pour valider les décisions de l'Assemblée Générale dans le règlement intérieur de Togo AgTech Hub ?",
+    "expected_answer": "La moitié des membres actifs (50 %).",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 4,
+    "type": "single_hop"
+  },
+  {
+    "id": 18,
+    "question": "Quelle majorité est requise pour décider de la dissolution de Togo AgTech Hub selon ses statuts ?",
+    "expected_answer": "La majorité des trois quarts (3/4) des membres présents ou représentés.",
+    "source_doc": "statut_togoagtechhub.pdf",
+    "source_page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 19,
+    "question": "Quelles sont les signatures conjointes nécessaires pour toute opération de retrait sur le compte bancaire chez FRESHYX ?",
+    "expected_answer": "Les signatures conjointes du Président, du Responsable Finances & Partenariats et du Responsable Administration.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 16,
+    "type": "single_hop"
+  },
+  {
+    "id": 20,
+    "question": "Dans quel délai maximal le remplacement d'un membre vacant au Conseil d'Administration d'ISOC-Togo s'effectue-t-il ?",
+    "expected_answer": "Dans un délai maximal de trente (30) jours.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 7,
+    "type": "single_hop"
+  },
+  {
+    "id": 21,
+    "question": "Quelles sont les sanctions disciplinaires prévues par l'article 14 du règlement intérieur de Togo AgTech Hub ?",
+    "expected_answer": "Un avertissement écrit, une suspension temporaire ou une exclusion définitive.",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 5,
+    "type": "single_hop"
+  },
+  {
+    "id": 22,
+    "question": "Qui préside le comité électoral pour l'élection des membres du Conseil d'Administration d'ISOC-Togo ?",
+    "expected_answer": "Le membre possédant la plus grande ancienneté dans le Chapitre (ou dans l'Internet Society en cas d'égalité).",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 7,
+    "type": "single_hop"
+  },
+  {
+    "id": 23,
+    "question": "Combien de volontaires au minimum composent une commission spécialisée chez ISOC-Togo ?",
+    "expected_answer": "Au moins cinq (5) volontaires.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 24,
+    "question": "Quel est le délai maximal d'envoi de l'ordre du jour définitif de l'Assemblée Générale chez FRESHYX ?",
+    "expected_answer": "Au plus tard 15 jours à l'avance.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 10,
+    "type": "single_hop"
+  },
+  {
+    "id": 25,
+    "question": "Qui prépare le rapport financier annuel d'ISOC-Togo destiné à être transmis à l'Internet Society ?",
+    "expected_answer": "Le Trésorier.",
+    "source_doc": "statut_isoc.pdf",
+    "source_page": 6,
+    "type": "single_hop"
+  },
+  {
+    "id": 26,
+    "question": "Comparez la composition des postes du Bureau Exécutif entre les statuts de FRESHYX et ceux de Togo AgTech Hub.",
+    "expected_answer": "Tous deux ont 5 membres : FRESHYX comprend un Président et 4 Vice-présidents (projet, finances & partenariats, communication, ressources humaines), tandis que Togo AgTech Hub comprend un Président, un Secrétaire général, un Trésorier, un Chargé de projet et de partenariat, et des Responsables de communication et marketing.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 11,
+    "secondary_sources": [
+      {
+        "doc": "freshyx_statut.pdf",
+        "page": 11
+      },
+      {
+        "doc": "statut_togoagtechhub.pdf",
+        "page": 6
+      }
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 27,
+    "question": "Quels organes interviennent dans l'élaboration, l'adoption et la modification du règlement intérieur de Togo AgTech Hub selon ses statuts et son règlement intérieur ?",
+    "expected_answer": "Il est élaboré et approuvé par le Bureau Exécutif, puis adopté et ratifié par vote de l'Assemblée Générale.",
+    "source_doc": "ri_tah.pdf",
+    "source_page": 2,
+    "secondary_sources": [
+      {
+        "doc": "ri_tah.pdf",
+        "page": 2
+      },
+      {
+        "doc": "statut_togoagtechhub.pdf",
+        "page": 7
+      }
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 28,
+    "question": "Comparez les règles de quorum requises pour une Assemblée Générale Ordinaire entre FRESHYX et ISOC-Togo.",
+    "expected_answer": "FRESHYX exige le quorum absolu (50 % + 1) des votants, tandis qu'ISOC-Togo exige la présence ou représentation d'au moins le quart (1/4) des adhérents.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 11,
+    "secondary_sources": [
+      {
+        "doc": "freshyx_statut.pdf",
+        "page": 11
+      },
+      {
+        "doc": "statut_isoc.pdf",
+        "page": 4
+      }
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 29,
+    "question": "Comparez la durée du mandat de l'organe exécutif principal (Bureau Exécutif ou Conseil d'Administration) entre FRESHYX, Togo AgTech Hub et ISOC-Togo.",
+    "expected_answer": "FRESHYX et Togo AgTech Hub fixent un mandat de 3 ans pour le Bureau Exécutif, alors qu'ISOC-Togo fixe un mandat de 2 ans (renouvelable une seule fois) pour les membres de son Conseil d'Administration.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 11,
+    "secondary_sources": [
+      {
+        "doc": "freshyx_statut.pdf",
+        "page": 11
+      },
+      {
+        "doc": "statut_togoagtechhub.pdf",
+        "page": 6
+      },
+      {
+        "doc": "statut_isoc.pdf",
+        "page": 5
+      }
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 30,
+    "question": "À qui sont affectés ou dévolus les biens en cas de dissolution chez FRESHYX et chez ISOC-Togo ?",
+    "expected_answer": "Chez FRESHYX, les ressources et biens sont affectés aux œuvres caritatives ; chez ISOC-Togo, l'actif est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.",
+    "source_doc": "freshyx_statut.pdf",
+    "source_page": 17,
+    "secondary_sources": [
+      {
+        "doc": "freshyx_statut.pdf",
+        "page": 17
+      },
+      {
+        "doc": "statut_isoc.pdf",
+        "page": 9
+      }
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 31,
+    "question": "Quel est le montant forfaitaire de remboursement des indemnités kilométriques pour les salariés d'ISOC-Togo ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 32,
+    "question": "Quelle est la procédure pour déclarer un arrêt maladie au sein de l'association FRESHYX ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 33,
+    "question": "Quel est le tarif mensuel d'accès à l'espace de coworking du Togo AgTech Hub ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 34,
+    "question": "Combien de jours de congés payés annuels un salarié de FRESHYX accumule-t-il par mois travaillé ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 35,
+    "question": "Quel logiciel de comptabilité ERP utilise le trésorier d'ISOC-Togo ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 36,
+    "question": "Quelles sont les clauses de non-concurrence applicables aux prestataires externes de Togo AgTech Hub ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 37,
+    "question": "Quel fournisseur cloud héberge les serveurs et bases de données d'ISOC-Togo ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 38,
+    "question": "Quelle prime de fin d'année est versée aux membres du Bureau Exécutif de FRESHYX ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 39,
+    "question": "Quel est le délai légal accordé aux membres de Togo AgTech Hub pour contester une note de frais de mission internationale ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  },
+  {
+    "id": 40,
+    "question": "Quel modèle d'intelligence artificielle open source est préconisé par la charte informatique de Togo AgTech Hub ?",
+    "expected_answer": "Je ne sais pas. L'information demandée ne figure pas dans les documents fournis.",
+    "source_doc": null,
+    "source_page": null,
+    "type": "out_of_domain"
+  }
+]
